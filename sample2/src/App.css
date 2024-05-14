@@ -1,0 +1,40 @@
+.body{
+    background-color: rgb(209, 240, 240);
+
+}
+.mark1,.mark2,.mark3{
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: rgb(55, 48, 48);
+    color: beige;
+    padding: 30px;
+    text-align: center;
+
+}
+spam{
+    font-weight: 900;
+}
+.message{
+
+    border: 2px solid gray;
+    padding: 30px;
+    border-radius: 10px;
+    color: beige;
+    align-items: center;
+    
+}
+.tablehead{
+    background-color: rgb(55, 48, 48);
+
+    color: bisque;
+    border: 2px solid gray;
+}
+.tablebody{
+    border: 2px solid gray;
+    background-color: white;
+
+}
+.btnlink{
+    margin: 15px;
+}
